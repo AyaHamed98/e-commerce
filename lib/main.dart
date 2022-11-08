@@ -21,13 +21,7 @@ void main() async{
         statusBarColor: Colors.transparent,
   ));
 
-Map x={"":""};
-Set y={"",2};
-var ahmed={};
-var mohamed={};
-shreaf(){
 
-}
 }
 
 class MyApp extends StatelessWidget {
